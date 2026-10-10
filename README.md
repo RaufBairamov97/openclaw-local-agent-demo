@@ -12,7 +12,6 @@ I asked my OpenClaw agent to create a file on the Ubuntu Desktop. The resulting 
 
 This experiment demonstrates a basic file-creation workflow using OpenClaw in an Ubuntu Linux environment with a local Ollama model.
 
-![OpenClaw agent file-creation demonstration](screenshots/agent-file-creation.png)
 
 *Screenshot captured during the local agent experiment.*
 
