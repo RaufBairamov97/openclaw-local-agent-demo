@@ -5,6 +5,17 @@ A hands-on experiment running OpenClaw with a local Ollama model inside Ubuntu L
 <img width="1600" height="1041" alt="image" src="https://github.com/user-attachments/assets/a012b3b9-c1d4-4c6e-b37c-23cca25b83f4" />
 
 
+
+## Proof of Agent File Creation
+
+I asked my OpenClaw agent to create a file on the Ubuntu Desktop. The resulting `dem1.txt` file was visible in the file manager, and its properties showed a size of 31 bytes.
+
+This experiment demonstrates a basic file-creation workflow using OpenClaw in an Ubuntu Linux environment with a local Ollama model.
+
+![OpenClaw agent file-creation demonstration](screenshots/agent-file-creation.png)
+
+*Screenshot captured during the local agent experiment.*
+
 ## Overview
 
 This project documents my experience setting up a locally running AI agent and testing its ability to interact with the Linux desktop environment.
